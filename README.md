@@ -1,0 +1,1 @@
+This software is developed in raw PHP. For the design of the Frontend bootstrap 4 is used. And the technology for backend, I code in raw PHP. All the necessary feature that a CRM should have, is added in this project. For database I used MySQL. Database design and data flow structure is developed by me with the help of our instructor Morshed Habib Sir.
